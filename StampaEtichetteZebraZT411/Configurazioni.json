@@ -1,0 +1,7 @@
+{
+  "IndirizzoIPStampante": "127.0.0.1",
+  "NomeStampante": "ZDesigner ZD411-203dpi ZPL",
+  "PortaStampante": 58556,
+  "StampaViaTCPIP": True,
+    "StampaViaSpoolerWin": False
+}
